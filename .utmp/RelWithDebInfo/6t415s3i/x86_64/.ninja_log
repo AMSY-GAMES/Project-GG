@@ -1,0 +1,5 @@
+# ninja log v5
+91	187	1696116221637498190	/Users/azshen/Documents/GitHub/Project GG/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6t415s3i/obj/x86_64/libswappywrapper.so	91d19784dc2c0058
+0	91	1696116221562504680	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	617b84e5d01f3c9b
+1	102	1696116558830384948	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	617b84e5d01f3c9b
+102	198	1696116558905358452	/Users/azshen/Documents/GitHub/Project GG/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6t415s3i/obj/x86_64/libswappywrapper.so	91d19784dc2c0058
